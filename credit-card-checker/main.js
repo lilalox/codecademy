@@ -67,6 +67,7 @@ function idInvalidCardCompanies(arr) {
 }
 
 console.log(idInvalidCardCompanies(batch))
+//Github test
 
 
 
